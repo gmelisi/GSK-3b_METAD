@@ -4,6 +4,7 @@
   <img src="https://github.com/gmelisi/GSK-3b_METAD/blob/main/TOC.jpg" alt="TOC" width="640">
 </div>
 
+
 In this repository, sample input files are provided to carry out for the complex between GSK-3β and compound **4** (ARN25494):
 - **PCV-metadynamics simulations** to assess the conformational preference of D3R/GSK-3β dual target-directed ligands.
 - **Funnel-metadynamics simulations** to measure the free-energy cost for ligand detachment.
@@ -15,7 +16,7 @@ Conversely, complex with ligand **4** has been retrieved via docking calculation
 
 ## Input files
 
-The zip file (deposited as egg in the Plumed-NEST, includes:
+The zip file (deposited as egg in the Plumed-NEST), includes:
 - Gromacs topology, equilibrated structure, index and MD parameters files.
 - Plumed input specifics for the simulation.
 - PDB templates read by Plumed files to recompact the system for PBC treatment, define PCVs for ligand conformational change, apply restraints, including the funnel used during unbinding.
