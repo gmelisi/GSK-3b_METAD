@@ -10,7 +10,7 @@ In this repository, sample input files are provided to carry out for the complex
 - **Funnel-metadynamics simulations** to measure the free-energy cost for ligand detachment.
 
 The ligands have been recently published in the "*European Journal of Medicinal Chemistry*" as [Di Martino *et al.*, 2025](https://www.sciencedirect.com/science/article/pii/S0223523425006646).
-Complex with ligands **2**, **3** and **5** have been relased as PDB structures [*9HUK*](https://www.rcsb.org/structure/9HUK),[*9HUL*](https://www.rcsb.org/structure/9HUL) and [*9HV3*](https://www.rcsb.org/structure/9HV3), respectively.
+Complexes with ligands **2**, **3** and **5** have been relased as PDB structures [*9HUK*](https://www.rcsb.org/structure/9HUK),[*9HUL*](https://www.rcsb.org/structure/9HUL) and [*9HV3*](https://www.rcsb.org/structure/9HV3), respectively.
 Conversely, complex with ligand **4** has been retrieved via docking calculations.
 
 
