@@ -16,7 +16,7 @@ Conversely, complex with ligand **4** has been retrieved via docking calculation
 
 ## Input files
 
-The zip file (deposited as egg in the Plumed-NEST), includes:
+The zip file (deposited as egg in the Plumed-NEST, [plumID:26.007](https://www.plumed-nest.org/eggs/26/007/)) includes:
 - Gromacs topology, equilibrated structure, index and MD parameters files.
 - Plumed input specifics for the simulation.
 - PDB templates read by Plumed files to recompact the system for PBC treatment, define PCVs for ligand conformational change, apply restraints, including the funnel used during unbinding.
